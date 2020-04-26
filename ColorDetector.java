@@ -22,6 +22,10 @@ import org.opencv.videoio.VideoCapture;
 
 import application.Range;
 
+
+/******NOTE: Only using opencv to stream video from web cam******/
+
+
 public class ColorDetector {
 
 	static Range r = new Range();
